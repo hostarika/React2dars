@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1220px;
+    margin: 0 auto;
+}
+.container2{
+    max-width: 1440px;
+    margin: 0 auto;
+}
+.sakkiz{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #F5F7FA;
+    height: 450px;
+    padding: 60px;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+.lessons{
+    color: #4D4D4D;
+    font-size: 60px;
+}
+.fromsakkiz{
+    color: #4CAF4F;
+    font-size: 60px;
+}
+.whereto{
+    color: #717171;
+}
+.illustration{
+    width: 300px;
+}
+.ourclients{
+    font-family: Inter;
+    font-size: 30px;
+    color: #4D4D4D;
+}
+.ourclientsbox{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.icons{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 1000px;
+}
+.minilogos{
+    width: 40px;
+}
+.manageyour{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.manageyourentire{
+    font-family: Inter;
+    font-size: 30px;
+    color: #4D4D4D;
+}
+.managebox{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.membership{
+    width: 300px;
+    height: 280px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    box-shadow: 4px 8px 16px 4px #ABBED133;
+}
+.Frame35{
+    width: 400px;
+}
+.oxiri{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 100px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.theunseen{
+    font-family: Inter;
+    font-size: 40px;
+    color: #4D4D4D;
+}
